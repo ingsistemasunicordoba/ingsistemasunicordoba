@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingsistemasunicordoba
 - 👀 I’m interested in ... Design - Design. Engineering. Programming. Web security.
-- 🌱 I’m currently learning ... GIT and GUTHUB
+- 🌱 I’m currently learning ... GIT and GITHUB
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
